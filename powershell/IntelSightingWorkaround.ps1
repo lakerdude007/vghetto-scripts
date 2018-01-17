@@ -175,7 +175,7 @@ Function Set-IntelSightingsWorkaround {
      Twitter:       @lamw
         ===========================================================================
     .DESCRIPTION
-        This function removes the Intel Sightings workaround on an ESXi host as outline by https://kb.vmware.com/s/article/52345
+        This function sets the Intel Sightings workaround on an ESXi host as outline by https://kb.vmware.com/s/article/52345
     .PARAMETER AffectedHostList
         Text file containing ESXi Hostnames/IP for hosts you wish to apply remediation
     .EXAMPLE
